@@ -72,7 +72,10 @@ h3{
     font-size: 14px;
     font-weight: bold;
     text-decoration: none;
-    display: block;
+    margin-left: 10px;
+}
+
+.loginBox p{
     text-align: center;
 }
 
